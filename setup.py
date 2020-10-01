@@ -25,8 +25,8 @@ version = '0.4.1'  # this a tag for the current development version
 # Once a pytorch version (in the future) breaks a kornia version, we could just
 # add a maximal version.
 kornia_pt_dependencies = {
-    '0.4.0': '>=1.6.0,<1.7.0',
-    '0.3.2': '>=1.5.0,<1.6.0',
+    '0.4.0': '>=1.6.0',
+    '0.3.2': '>=1.5.0',
     '0.3.1': '>=1.5.0',
     '0.2.2': '>=1.4.0',
     '0.1.4': '>=1.2.0',
